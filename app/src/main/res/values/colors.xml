@@ -1,0 +1,4 @@
+<resources>
+    <color name="background_color">#303F9F</color> <!-- Dark blue background -->
+    <color name="button_color">#FF4081</color> <!-- Pink color for buttons -->
+</resources>
